@@ -4,6 +4,8 @@ django
 python-dotenv
 djangorestframework
 pytest
+pytest-django
+
 # Commands
 
 django-admin startproject drfecommerce
